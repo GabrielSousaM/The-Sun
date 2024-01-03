@@ -1,2 +1,2 @@
 # The-Sun
- A little animation of the sun rotating made with HTML and CSS
+ An animation made to practice animations with HTML and CSS
